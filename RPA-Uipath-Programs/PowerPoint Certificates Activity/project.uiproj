@@ -1,0 +1,6 @@
+{
+  "Name": "powerpointcertificatesactivity",
+  "ProjectType": "Process",
+  "Description": "Reads participants from Excel and creates one PowerPoint certificate per person from a template.",
+  "MainFile": "Main.xaml"
+}

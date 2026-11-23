@@ -1,0 +1,6 @@
+{
+  "Name": "excelgradesactivity",
+  "ProjectType": "Process",
+  "Description": "Reads student marks from Excel, calculates total, percentage and grade, and writes a Result sheet.",
+  "MainFile": "Main.xaml"
+}

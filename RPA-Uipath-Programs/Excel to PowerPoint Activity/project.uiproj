@@ -1,0 +1,6 @@
+{
+  "Name": "exceltopowerpointactivity",
+  "ProjectType": "Process",
+  "Description": "Reads sales data from Excel and fills a PowerPoint template to create a sales report.",
+  "MainFile": "Main.xaml"
+}
